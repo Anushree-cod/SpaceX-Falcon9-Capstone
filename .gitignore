@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/*.sqlite
+data/spacex_launches_raw.csv
+outputs/*
+!outputs/.gitkeep
